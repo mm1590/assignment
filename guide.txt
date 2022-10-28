@@ -1,0 +1,9 @@
+1.smart contract to add tokens to different slabs.
+
+2. it has a contract token which can transfer and give out balances of the token
+
+3.it features import and a lot of if else statements.
+
+4. it can be deployed on remix ide.
+
+5. it has functions to add token amounts to slabs and also enquire the balances in slab.  

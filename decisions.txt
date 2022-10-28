@@ -1,0 +1,9 @@
+1. I have used import function to import the token contract to smartcontract1 contract
+
+2.mapping to store address of token and slab names.
+
+3.addamttoslab function adds the amount to slab.
+
+4.the amount is added in such a way that the amount gets allocated according to the size of amount in different slabs.
+
+5.amountenquiryreq function to enquire the amounts in different slabs.
